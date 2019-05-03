@@ -14,3 +14,5 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
 
 ## License
 Ionicons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+The md-mastodon.svg is based on [a community icon from materialdesignicons.com](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/mastodon.svg) licensed under [SIL Open Font License 1.1](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
